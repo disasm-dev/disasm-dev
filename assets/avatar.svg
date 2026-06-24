@@ -1,0 +1,15 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="40%" r="80%">
+      <stop offset="0" stop-color="#1d1d20"/>
+      <stop offset="1" stop-color="#0d0d0f"/>
+    </radialGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f59e0b"/>
+      <stop offset="1" stop-color="#d97706"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <rect x="94" y="94" width="324" height="324" rx="74" fill="url(#amber)"/>
+  <text x="256" y="345" text-anchor="middle" font-family="'Segoe UI Black','Segoe UI',Arial,sans-serif" font-weight="900" font-size="244" fill="#141416">D</text>
+</svg>

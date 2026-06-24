@@ -28,7 +28,7 @@ Built for web scraping, automation, testing, and bot development against protect
 
 ## Quick start
 
-1. Join the [Discord](https://discord.gg/ukxJm45r7Q) and open a ticket for an API key, or sign up at the [dashboard](https://dashboard.disasm.dev)
+1. Sign up at the [dashboard](https://dashboard.disasm.dev) and create an API key
 2. Skim the [docs](https://docs.disasm.dev) for the service you need
 3. Send your key in the `x-api-key` header to the service host
 4. Get a solve back in milliseconds, no browser involved
